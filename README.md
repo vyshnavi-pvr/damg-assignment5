@@ -1,4 +1,4 @@
-# Assignment 5:  Advertising Spend and Return Over Investment Machine Learning Project with Snowpark Python and Streamlit( deployed on Amazon Sagemaker Studio Lab)
+# Assignment 5:  Advertisement Spend and Return Over Investment Machine Learning Project with Snowpark Python and Streamlit( deployed on Amazon Sagemaker Studio Lab)
 
 
 ### DAMG 7245 - Big Data and Intelligent Analytics 
@@ -30,13 +30,13 @@ In this repository, for the assignment we included source code, data and a repor
 
 \---ROI Prediction
 
-    |   00_Setup.ipynb
-    
-    |   01_Data_Engineering.ipynb
-    
     |   campaign_spend.csv
     
     |   connection.json
+    
+    |   DataScience_MLeng.ipynb
+    
+    |   Data_Engineering.ipynb
     
     |   monthly_revenue.csv
     
@@ -44,13 +44,17 @@ In this repository, for the assignment we included source code, data and a repor
     
     |   requirements.txt
     
-    |   Snowpark_For_Python.ipynb
+    |   Setup.ipynb
     
     |   streamlit.ipynb
     
-    |   Untitled.ipynb
+    |   
     
-      
+    +---dags
+    
+    |       snowpark_connection.py
+    
+    |       
     
     +---include
     
@@ -59,5 +63,3 @@ In this repository, for the assignment we included source code, data and a repor
     |       Snowpark_Streamlit_Revenue_Prediction.py
     
     |       
-    
-   
