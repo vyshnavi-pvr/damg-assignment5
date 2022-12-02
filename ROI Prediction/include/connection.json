@@ -1,9 +1,0 @@
-{
-  "account"   : "neb77596.us-east-1",
-  "user"      : "jack",
-  "password"  : "Yukti@24",
-  "role"      : "ACCOUNTADMIN",
-  "warehouse" : "A5_WH",
-  "database"  : "A5_DB",
-  "schema"    : "A5_SCHEMA"
-}
