@@ -1,4 +1,4 @@
-# Assignment 4:  Advertising Send and Return Over Investment Machine Learning Project with Snowpark Python and Streamlit( deployed on Amazon Sagemaker Studio Lab)
+# Assignment 5:  Advertising Send and Return Over Investment Machine Learning Project with Snowpark Python and Streamlit( deployed on Amazon Sagemaker Studio Lab)
 
 
 ### DAMG 7245 - Big Data and Intelligent Analytics 
