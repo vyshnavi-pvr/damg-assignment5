@@ -1,4 +1,4 @@
-# Assignment 5:  Advertising Send and Return Over Investment Machine Learning Project with Snowpark Python and Streamlit( deployed on Amazon Sagemaker Studio Lab)
+# Assignment 5:  Advertising Spend and Return Over Investment Machine Learning Project with Snowpark Python and Streamlit( deployed on Amazon Sagemaker Studio Lab)
 
 
 ### DAMG 7245 - Big Data and Intelligent Analytics 
@@ -13,7 +13,7 @@
 | Vyshnavi Pendru       |   002919813     |
 | Moksha Ajaykumar Doshi|   002922797     |
 
-Technologies used : Amazon Sagemaker Studio Lab, Snowpark, Snowflake, Docker, AWS, Apache Airflow, Astronomer
+Technologies used : Amazon Sagemaker Studio Lab, Snowpark, Snowflake, Docker, AWS, Streamlit
 
 **Google CodeLabs link - https://codelabs-preview.appspot.com/?file_id=1HH_lDaZXrKmGYgz3iW8zx5uerv6r9dyFg1n-TKG8n94#0
 
