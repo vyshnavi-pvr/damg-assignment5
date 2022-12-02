@@ -16,6 +16,7 @@
 Technologies used : Amazon Sagemaker Studio Lab, Snowpark, Snowflake, Docker, AWS, Streamlit
 
 **Google CodeLabs link - https://codelabs-preview.appspot.com/?file_id=1HH_lDaZXrKmGYgz3iW8zx5uerv6r9dyFg1n-TKG8n94#0
+**Running the streamlit application which is deployed on Amazon Sagemaker Studio lab on "https://qrosew9ktffgtnu.studio.us-east-2.sagemaker.aws/studiolab/default/jupyter/proxy/6006/"
 
 In this repository, for the assignment we included source code, data and a report using codelabs while implementing the following:
 
