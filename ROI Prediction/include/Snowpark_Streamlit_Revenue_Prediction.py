@@ -6,6 +6,8 @@ from snowflake.snowpark.functions import col
 import streamlit as st
 
 # APP_ICON_URL = "https://i.imgur.com/dBDOHH3.png"
+import sys
+sys.path.append('..')
 
 def create_session():
     if "snowpark_session" not in st.session_state:
@@ -48,8 +50,8 @@ def predict(budgets):
     change = round((predicted_roi - last_month_roi) / last_month_roi * 100, 1)
     return predicted_roi, change
 
-# predicted_roi, change = predict(budgets)
-# st.metric("", f"$ {predicted_roi:.2f} million", f"{change:.1f} % vs last month")
+predicted_roi, change = predict(budgets)
+st.metric("", f"$ {predicted_roi:.2f} million", f"{change:.1f} % vs last month")
 # months = ["January", "February", "March", "April", "May", "June", "July"]
 # july = pd.DataFrame({"MONTH": ["July", "July", "July", "July"], "CHANNEL": ["SEARCHENGINE", "SOCIALMEDIA", "VIDEO", "EMAIL"], "BUDGET": budgets, "ROI": [predicted_roi] * 4})
 # chart_data = historical_data.append(july).reset_index(drop=True)
