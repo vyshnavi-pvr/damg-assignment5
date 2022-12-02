@@ -29,35 +29,35 @@ In this repository, for the assignment we included source code, data and a repor
 
 
 \---ROI Prediction
+
     |   00_Setup.ipynb
+    
     |   01_Data_Engineering.ipynb
+    
     |   campaign_spend.csv
+    
     |   connection.json
+    
     |   monthly_revenue.csv
+    
     |   README.md
+    
     |   requirements.txt
+    
     |   Snowpark_For_Python.ipynb
+    
     |   streamlit.ipynb
+    
     |   Untitled.ipynb
-    |   
-    +---dags
-    |       snowpark_connection.py
-    |       
+    
+      
+    
     +---include
+    
     |       snowpark_connection.py
+    
     |       Snowpark_Streamlit_Revenue_Prediction.py
+    
     |       
-    +---setup
-    |       app-image-config-input.json
-    |       build.sh
-    |       create-domain-input.json
-    |       Dockerfile
-    |       environment.yml
-    |       snowpark_container_build.zip
-    |       update-domain-input.json
-    |       
-    \---tests
-
-
-
-
+    
+   
