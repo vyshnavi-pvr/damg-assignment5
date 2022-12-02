@@ -6,6 +6,8 @@ from snowflake.snowpark.functions import col
 import streamlit as st
 
 # APP_ICON_URL = "https://i.imgur.com/dBDOHH3.png"
+import sys
+sys.path.append('..')
 
 def create_session():
     if "snowpark_session" not in st.session_state:
